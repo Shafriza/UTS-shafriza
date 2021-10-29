@@ -1,8 +1,8 @@
 <?php
 
-$host = "localhost";
-$user = "root";
-$pass = "";
+$host = "10.0.0.107";
+$user = "admin";
+$pass = "Shafriza123/";
 $db = "crud_android";
 
 $con = mysqli_connect($host,$user,$pass, $db);
