@@ -157,7 +157,7 @@
         <div class="row justify-content-center">
             <div class="col-sm-1 col-2">
                 <a href="#!">
-                    <img src="001-gmail.png" alt="" class="img-fluid">
+                    <img src="https://objectstorage.ap-osaka-1.oraclecloud.com/n/axypqxyatue2/b/UTS/o/001-gmail.png" alt="" class="img-fluid">
                 </a>
             </div>
             <div class="col-sm-1 col-2">
